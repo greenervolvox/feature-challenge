@@ -1,4 +1,4 @@
-# Diamantes Consultoria - Teste Tecnico
+# Diamantes Consultoria - Desafio Tecnico
 
 Seja bem-vindo(a) ao teste tecnico para a vaga de Desenvolvedor Junior da Diamantes Consultoria!
 
