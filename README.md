@@ -11,6 +11,7 @@ Para iniciar o desafio, faça um fork desse repositório e crie uma branch chama
 - Criação de uma simples loja de roupas.
 - Crie uma API para consumir os dados das roupas.
 - Armazene em um banco de dados relacional.
+- Dar deploy (Você tem opções de deploy grátis nas plataformas **Vercel**, **Render** e **Neon**. Sinta-se à vontade para escolher.).
 
 **O que vai te destacar:**
 - Caso necessário, utilizar design patterns para a construção da aplicação.
