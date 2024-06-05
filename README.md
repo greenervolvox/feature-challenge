@@ -17,8 +17,10 @@ Para iniciar o desafio, faça um fork desse repositório e crie uma branch chama
 - Caso necessário, utilizar design patterns para a construção da aplicação.
 - Implementar autenticação e autorização.
 - Não utilizar muitas bibliotecas durante o desenvolvimento. Priorize implementar suas próprias funcionalidades.
+- Fazer boa utilização do Typescript, utilizando seus **métodos nativos** e **generics**.
 
 **Tecnologias:**
+- Typescript
 - Next.js para o site e API.
 - Prisma ORM.
 - PostgreSQL para armazenar os dados.
