@@ -3,9 +3,9 @@
 Seja bem-vindo(a) ao teste tecnico para a vaga de Desenvolvedor Junior da Diamantes Consultoria!
 
 Você deverá se inspirar no [seguinte design](https://www.figma.com/design/Mv9ZgtpeUAHDVJ2SbRi74E/Desafio-t%C3%A9cnico---Diamantes-Consultoria?node-id=1-296) para o desafio.
-As imagens que deverá usar, estão armazenadas na pasta ```/assets``` neste repositório
+As imagens que deverá usar, estão armazenadas na pasta ```/assets``` neste repositório.
 
-A arquitetura da aplicação ficará a sua escolha.
+Para iniciar o desafio, faça um fork desse repositório e crie uma branch chamada ```feature/challenge```. Ao finalizar, faça um PR (pull request) para este mesmo repositório, na nossa branch ```feature/received-challenge```.
 
 **Desafio principal:**
 - Criação de uma simples loja de roupas.
