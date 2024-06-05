@@ -24,3 +24,5 @@ Para iniciar o desafio, faça um fork desse repositório e crie uma branch chama
 - Next.js para o site e API.
 - Prisma ORM.
 - PostgreSQL para armazenar os dados.
+
+**Tempo de entrega:** 2 dias a partir do dia do recebimento
