@@ -53,6 +53,6 @@ export async function DELETE(request: Request) {
     return new Response(JSON.stringify(pecaDeletada), { status: 200 });
   } catch (error) {
     console.error('Erro ao deletar peça:', error);
-    return new Response(JSON.stringify({ error: 'Erro ao deletar peça.', details: error.message }), { status: 500 });
+    return new Response(JSON.stringify({ error: 'Erro ao deletar peça.', details: '' }), { status: 500 });
   }
 }
